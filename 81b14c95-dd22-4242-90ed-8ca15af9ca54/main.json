@@ -1,1 +1,1 @@
-{"allocations": {"CSCO": 20.0, "META": 10.0, "MSFT": 20.0, "NVDA": 20.0, "AAPL": 20.0, "ORCL": 5.0, "SPCX": 5.0}, "frequency": 30, "name": "Test Strategy - Test Hello", "period": "days"}
+{"allocations": {"NVDA": 100.0}, "frequency": 30, "name": "Test Strategy - Test Hello", "period": "days"}
