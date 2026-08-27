@@ -1,1 +1,1 @@
-{"allocations": {"NVDA": 100.0}, "frequency": 30, "name": "Test Strategy - Test Hello", "period": "days"}
+{"allocations": {"MSFT": 40.0, "NVDA": 30.0, "AAPL": 30.0}, "frequency": 30, "name": "Test Strategy - Test Hello", "period": "days"}
